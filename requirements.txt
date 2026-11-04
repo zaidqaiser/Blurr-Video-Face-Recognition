@@ -1,0 +1,3 @@
+facenet-pytorch
+opencv-python
+numpy<2
